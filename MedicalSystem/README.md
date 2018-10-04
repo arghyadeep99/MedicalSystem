@@ -33,34 +33,32 @@ Truffle
 
 9. Migrate the smart contract by entering the following command in the terminal window:
    #### truffle migrate --reset
+   
+10.To test the Medical smart contract, enter the following command in the terminal window:
+   #### truffle test
 
-10. Run the development server and type in the following command in the terminal window:
-    #### npm run dev
+11.Run the development server and type in the following command in the terminal window:
+   #### npm run dev
 
-11. The medical records system will launch and display in the browser.
+12.The medical records system will launch and display in the browser.
   
-12. To use the system, launch MetaMask and set the private network Custom RPC to the following url >> http://127.0.0.0:7545. 
+13.To use the system, launch MetaMask and set the private network Custom RPC to the following url >> http://127.0.0.0:7545. 
 
-13. Paste the mnemonic seed phrase from Ganache-CLI when prompted, and a password of your own choice.
+14.Paste the mnemonic seed phrase from Ganache-CLI when prompted, and a password of your own choice.
 
-14. Enter in any sample patient information and click on the Add Record button.  
+15.Enter in any sample patient information and click on the Add Record button.  
 
-15. The MetaMask add-in will launch and provide a notification window and a Submit button. 
+16.The MetaMask add-in will launch and provide a notification window and a Submit button. 
 
-16. Click on the Submit button and the system will send the transaction.  
+17.Click on the Submit button and the system will send the transaction.  
 
-17. If the transaction is successful, Metamask will provide a success status window.  
+18.If the transaction is successful, Metamask will provide a success status window.  
 
-18. Please note, the browser may need a refresh for MetaMask to connect to the smart contract.  Press F5 on the keyboard to refresh.
+19.Please note, the browser may need a refresh for MetaMask to connect to the smart contract.  Press F5 on the keyboard to refresh.
 
-19. The patient details will be displayed in the Patient Results area of the interface on a successful transaction.
+20. he patient details will be displayed in the Patient Results area of the interface on a successful transaction.
 
-20. Check in the Ganache-cli client and the transaction block will be incremented by each successful transaction.
-
-21. To test the Medical smart contract, enter the following command in the terminal window:
-    #### truffle test
-
-22. The test results will be displayed in the terminal window.
+21.Check in the Ganache-cli client and the transaction block will be incremented by each successful transaction.
 
 ## Installation Notes
 a. If Truffle is not installed, enter the following command to install in the terminal window:
