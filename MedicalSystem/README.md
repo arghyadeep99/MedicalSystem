@@ -29,15 +29,15 @@ Chrome Browser
 6. Compile the Truffle project by entering the following command in the terminal window:
    #### truffle compile
    
-7. To test the Medical smart contract, enter the following command in the terminal window:
-   #### truffle test
+7. Open the Ganache-CLI client.  
 
-8. Open the Ganache-CLI client.  
+8. Copy the mnemonic seed pharase in the Ganache-CLI client window to the clipboard.
 
-9. Copy the mnemonic seed pharase in the Ganache-CLI client window to the clipboard.
-
-10. Migrate the smart contract by entering the following command in the terminal window:
-    #### truffle migrate --reset
+9. Migrate the smart contract by entering the following command in the terminal window:
+   #### truffle migrate --reset
+   
+10. To test the smart contract, enter the following command in the terminal window:
+    #### truffle test
    
 11. Run the development server and type in the following command in the terminal window:
     #### npm run dev
