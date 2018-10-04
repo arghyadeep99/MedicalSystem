@@ -35,7 +35,7 @@ Truffle
    #### truffle migrate --reset
 
 10. Run the development server and type in the following command in the terminal window:
-   #### npm run dev
+    #### npm run dev
 
 11. The medical records system will launch and display in the browser.
   
