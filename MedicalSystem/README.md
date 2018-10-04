@@ -9,6 +9,8 @@ MetaMask Chrome Add-in
 Solidity
 <br />
 Truffle
+<br />
+Chrome Browser
 
 ## Please follow the steps to run this project on your local machine.
 
@@ -42,7 +44,7 @@ Truffle
 
 12. The medical records system will launch and display in the browser.
   
-13. To use the system, launch MetaMask and set the private network Custom RPC to the following url >> http://127.0.0.0:7545. 
+13. To use the system, launch MetaMask add-in and set the private network Custom RPC to the following url >> http://127.0.0.0:7545. 
 
 14. Paste the mnemonic seed phrase from Ganache-CLI when prompted, and a password of your own choice.
 
