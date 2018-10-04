@@ -75,5 +75,5 @@ c. To download the Ganache-CLI client, visit the following website and download 
 d. To install the MetaMask add-in for Chrome, download the add-in at the following url:
    https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en
 
-e. The Medical Records system uses the lite-server for development from Truffle pet shop.
+e. The Medical Records system uses the lite-server for development from the Truffle pet shop.
 
