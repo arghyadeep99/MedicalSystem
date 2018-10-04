@@ -67,6 +67,6 @@ If Truffle is not installed, enter the following command to install in the termi
 
 To install  Ganache-CLI, type in the following command in the terminal window:   **npm install -g ganache-cli**
 
-To download the Ganache-CLI client, visit the following website and download the client software to your local computer:  https://truffleframework.com/ganache
+To download the Ganache-CLI client, visit the following website and download the client software to your local computer: **https://truffleframework.com/ganache**
 
-To install the MetaMask add-in for Chrome, download the add-in at the following url:  https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en
+To install the MetaMask add-in for Chrome, download the add-in at the following url: **https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en**
