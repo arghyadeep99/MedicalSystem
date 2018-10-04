@@ -1,15 +1,18 @@
-# Medical Records
-A sample patient medical record smart contract built using Ethereum, Solidity, Truffle, Ganache-CLI and Metamask.
+# Medical Records System
+A sample patient medical records system smart contract built using Ethereum, Solidity, Truffle, Ganache-CLI and Metamask.
 
 ## System Requirements
 Ganache-CLI Client
-MetaMask Chrome Addin 
+<br />
+MetaMask Chrome Add-in 
+<br />
 Solidity
+<br />
 Truffle
 
 ## Please follow the steps to run this project on your local machine.
 
-1. Download the Medical System smart contract from github at the following url >> https://github.com/mvjlipinski/MedicalSystem.
+1. Download the Medical System smart contract from Github at the following url >> https://github.com/mvjlipinski/MedicalSystem.
 
 2. Unzip the MedicalSystem directory to your local computer.
 
@@ -18,11 +21,11 @@ Truffle
 4. Change to the MedicalSystem sub directory by entering the following command in the terminal window:
    #### cd MedicalSystem
 
-5. Compile the Truffle project by entering the following command in the terminal window:
-   #### truffle compile
-
-6. Install the project dependancies by entering the following in the terminal window
+5. Install the project dependancies by entering the following in the terminal window
    #### npm install
+   
+6. Compile the Truffle project by entering the following command in the terminal window:
+   #### truffle compile
 
 7. Open the Ganache-CLI client.  
 
@@ -46,7 +49,7 @@ Truffle
 
 16. Click on the Submit button and the system will send the transaction.  
 
-17. If the transaction is successful, Metamask will provide a success status windows.  
+17. If the transaction is successful, Metamask will provide a success status window.  
 
 18. Please note, the browser may need a refresh for MetaMask to connect to the smart contract.  Press F5 on the keyboard to refresh.
 
@@ -69,7 +72,7 @@ b. To install  Ganache-CLI, type in the following command in the terminal window
 c. To download the Ganache-CLI client, visit the following website and download the client software to your local computer:
    https://truffleframework.com/ganache
 
-d. To install the MetaMask addin for Chrome, download the add-in at the following url:
+d. To install the MetaMask add-in for Chrome, download the add-in at the following url:
    https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en
 
 e. The Medical Records system uses the lite-server for development from Truffle pet shop.
