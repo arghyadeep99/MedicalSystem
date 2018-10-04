@@ -62,7 +62,7 @@ The patient details will be displayed in the Patient Results area of the interfa
 
 Check in the Ganache-cli client and the transaction block will be incremented by each successful transaction.
 
-Installation Notes
+## Installation Notes
 If Truffle is not installed, enter the following command to install in the terminal window:
 #### npm install -g truffle
 
