@@ -23,7 +23,7 @@ Chrome Browser
 4. Change to the MedicalSystem sub directory by entering the following command in the terminal window:
    #### cd MedicalSystem
 
-5. Install the project dependancies by entering the following in the terminal window
+5. Install the project dependancies by entering the following in the terminal window:
    #### npm install
    
 6. Compile the Truffle project by entering the following command in the terminal window:
