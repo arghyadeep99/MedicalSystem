@@ -31,7 +31,7 @@ Chrome Browser
    
 7. Open the Ganache-CLI client.  
 
-8. Copy the mnemonic seed pharase in the Ganache-CLI client window to the clipboard.
+8. Copy the mnemonic seed phrase in the Ganache-CLI client window to the clipboard.
 
 9. Migrate the smart contract by entering the following command in the terminal window:
    #### truffle migrate --reset
