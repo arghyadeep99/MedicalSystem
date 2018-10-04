@@ -35,7 +35,7 @@ Truffle
 9. Copy the mnemonic seed pharase in the Ganache-CLI client window to the clipboard.
 
 10. Migrate the smart contract by entering the following command in the terminal window:
-   #### truffle migrate --reset
+    #### truffle migrate --reset
    
 11. Run the development server and type in the following command in the terminal window:
     #### npm run dev
