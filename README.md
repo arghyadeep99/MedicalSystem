@@ -21,26 +21,26 @@ Unzip the MedicalSystem directory to your local computer.
 Open a terminal window e.g. Powershell.
 
 Change to the MedicalSystem sub directory by entering the following command in the terminal window:
-#### cd MedicalSystem
+**cd MedicalSystem**
 
 Install the project dependancies by entering the following in the terminal window:
-#### npm install
+**npm install**
    
 Compile the Truffle project by entering the following command in the terminal window:
-#### truffle compile
+**truffle compile**
    
 Open the Ganache-CLI client.  
 
 Copy the mnemonic seed phrase in the Ganache-CLI client window to the clipboard.
 
 Migrate the smart contract by entering the following command in the terminal window:
-#### truffle migrate --reset
+**truffle migrate --reset**
    
 To test the smart contract, enter the following command in the terminal window:
-#### truffle test
+**truffle test**
    
 Run the development server and type in the following command in the terminal window:
-#### npm run dev
+**npm run dev**
 
 The medical records system will launch and display in the browser.
   
@@ -63,9 +63,9 @@ The patient details will be displayed in the Patient Results area of the interfa
 Check in the Ganache-cli client and the transaction block will be incremented by each successful transaction.
 
 ## Installation Notes
-If Truffle is not installed, enter the following command to install in the terminal window:  npm install -g truffle
+If Truffle is not installed, enter the following command to install in the terminal window:  **npm install -g truffle**
 
-To install  Ganache-CLI, type in the following command in the terminal window:   'npm install -g ganache-cli'
+To install  Ganache-CLI, type in the following command in the terminal window:   **npm install -g ganache-cli**
 
 To download the Ganache-CLI client, visit the following website and download the client software to your local computer:  https://truffleframework.com/ganache
 
