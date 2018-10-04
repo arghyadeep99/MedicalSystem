@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Patient Records System</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <img src="images/MedicalBanner.jpg" />
+      </div>
+      
+
+      <hr/>
+      <br/>
+
+      <div class="row">
+        <div class="col-xs-12">
+          <div class="input-group">
+            <div>
+              <p>Please enter the patient details and click on the add record button.</p>
+            </div>
+            <br />
+            <div>
+              <label>Admission Number:</label>
+              <br/>
+              <input type="text" class="input-value1" name="input1" placeholder="New admission number..." value="">
+            </div>
+            <br/>
+            <div>
+                <label>Patient Name:</label>
+                <br/>
+              <input type="text" class="input-value2" name="input2" placeholder="New patient name..." value="">
+            </div> 
+            <br/>
+            <div>
+              <label>Hospital Name:</label>
+              <br/>
+              <input type="text" class="input-value3" name="input3" placeholder="New hospital name..." value="">
+            </div> 
+            <br/>
+            <div>
+              <label>Doctor Name:</label>
+              <br/>
+              <input type="text" class="input-value4" name="input4" placeholder="New doctor name..." value="">
+            </div> 
+            <br/>
+            <div>
+              <label>Prescription Name:</label>
+              <br/>
+              <input type="text" class="input-value5" name="input3" placeholder="New prescription..." value="">
+            </div>
+            <br/>
+          </div>
+        <div class="input-group-btn">
+          <button type="button" name="button" data-loading-text="<i class='fa fa-spinner fa-spin '></i> Processing Patient" class="btn btn-default btn-value">Add Record</button>
+        </div>  
+        </div>
+      </div>
+
+      <hr/>
+      <br/>
+
+      <div id="wrapperProposals">
+      </div>
+
+    </div>
+
+    
+    <div id="proposalTemplate" style="display:none;">
+      <div>
+        <h4>Patient Results</h4>
+      </div> 
+      <div class="row">
+        <div class="col-xs-12">
+            <div class="row">
+                <div class="col-xs-6">
+                  <h4><span class="patientName">0</span></h4>
+                </div>
+              </div>
+          <div class="row">
+            <div class="col-xs-6">
+              <p>Admission Number: <span class="admissionNo">0</span></p>
+            </div>
+          </div>
+          
+          <div class="row">
+            <div class="col-xs-6">
+              <p>Hospital: <span class="hospital">0</span></p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-6">
+              <p>Doctor: <span class="doctor">0</span></p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-6">
+              <p>Prescription: <span class="prescription">0</span></p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <hr/>
+      <br/>
+    </div>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/web3.min.js"></script>
+    <script src="js/truffle-contract.js"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>
