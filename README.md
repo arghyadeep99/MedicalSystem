@@ -12,7 +12,7 @@ Truffle
 <br />
 Chrome Browser
 
-## Please follow the steps to run this project on your local machine.
+## Setup.
 
 1. Download the Medical System smart contract from Github at the following url >> https://github.com/mvjlipinski/MedicalSystem.
 
