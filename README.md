@@ -1,5 +1,5 @@
 # Medical Records System
-A simple patient medical records system built using blockchain technology, smart contracts and Ethereum, Solidity, Truffle, Ganache-CLI and Metamask.
+A simple patient medical records system built using blockchain technology, smart contracts, Ethereum, Solidity, Truffle, Ganache-CLI and Metamask.
 
 ## System Requirements
 Ganache-CLI Client
