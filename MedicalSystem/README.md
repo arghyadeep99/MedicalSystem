@@ -60,17 +60,17 @@ Truffle
 22. The test results will be displayed in the terminal window.
 
 ## Installation Notes
-If Truffle is not installed, enter the following command to install in the terminal window:
-#### npm install -g truffle
+a. If Truffle is not installed, enter the following command to install in the terminal window:
+   #### npm install -g truffle
 
-To install  Ganache-CLI, type in the following command in the terminal window:
-#### npm install -g ganache-cli
+b. To install  Ganache-CLI, type in the following command in the terminal window:
+   #### npm install -g ganache-cli
 
-To download the Ganache-CLI client, visit the following website and download the client software to your local computer:
-https://truffleframework.com/ganache
+c. To download the Ganache-CLI client, visit the following website and download the client software to your local computer:
+   https://truffleframework.com/ganache
 
-To install the MetaMask addin for Chrome, download the add-in at the following url:
-https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en
+d. To install the MetaMask addin for Chrome, download the add-in at the following url:
+   https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en
 
-The Medical Records system uses the lite-server for development from Truffle pet shop.
+e. The Medical Records system uses the lite-server for development from Truffle pet shop.
 
