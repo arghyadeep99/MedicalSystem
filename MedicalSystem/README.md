@@ -55,7 +55,7 @@ Truffle
 20. Check in the Ganache-cli client and the transaction block will be incremented by each successful transaction.
 
 21. To test the Medical smart contract, enter the following command in the terminal window:
-   #### truffle test
+    #### truffle test
 
 22. The test results will be displayed in the terminal window.
 
